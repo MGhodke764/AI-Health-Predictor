@@ -66,4 +66,16 @@ AI-Disease-Prediction-System/
 ```bash
 git clone https://github.com/yourusername/AI-Disease-Prediction-System.git
 
+Navigate to project folder
+```bash
+cd AI-Disease-Prediction-System
+
+Install dependencies
+```bash
+pip install -r requirements.txt
+
+Run the application
+```bash
+streamlit run app.py
+
 
