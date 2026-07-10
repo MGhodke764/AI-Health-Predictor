@@ -1,4 +1,4 @@
-# AI-Health-Predictor
+
 # 🩺 AI Disease Prediction System
 
 ## Overview
