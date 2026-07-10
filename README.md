@@ -59,25 +59,6 @@ AI-Disease-Prediction-System/
 └── About_Project.py
 
 
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/AI-Disease-Prediction-System.git
-
-Navigate to project folder
-```bash
-cd AI-Disease-Prediction-System
-
-Install dependencies
-```bash
-pip install -r requirements.txt
-
-Run the application
-```bash
-streamlit run app.py
-
 ### Application Pages
 🏠 Home Dashboard
 Project introduction
@@ -129,6 +110,10 @@ Author
 Mayuri Ghodke
 
 Machine Learning | Python | AI Healthcare Project
+
+
+
+
 
 
 
